@@ -5,6 +5,9 @@ body{
   font-family: 'Oxygen', sans-serif;
 
 }
+#main-content{
+	margin-top: 70px;
+}
 .dropdown-menu{
 	position: relative;
 	
