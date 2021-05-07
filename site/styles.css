@@ -1,0 +1,40 @@
+body{
+  font-size: 16px;
+  color: black;
+  
+  font-family: 'Oxygen', sans-serif;
+
+}
+.dropdown-menu{
+	position: relative;
+	
+	width:100%;
+}
+
+.dropdown-menu li>a{color:black; }
+.dropdown-menu li{border:1px solid black }
+.dropdown-menu li>a:hover{background-color: :white; }
+.dropdown-menu li>a:focus{background-color:white; }
+#lists{
+	margin-top: 10px;
+	margin-bottom:10px;
+	padding-top: 0px;
+	padding-bottom:0px;
+}
+#lists li a{
+	color:black;
+}
+.chicken{
+	
+
+	width:100%;
+	height: 1000px;
+}
+.menu, .chicken h2 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.chicken section{
+	margin-right: 30px;
+	margin-left: 30px;
+}
